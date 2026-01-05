@@ -12,15 +12,11 @@
       "description": " ",
       "type": "script",
       "entry": "scripts/index.js",
-      "uuid": "72e6a404-6a40-43db-b317-db98f1a101bd",
+      "uuid": "0065921b-c19b-4074-9836-d843489d57ab",
       "version": [1, 0, 0]
     }
   ],
   "dependencies": [
-    {
-      "uuid": "940aa2ab-7212-4c7a-a3f1-83eb484d082e",
-      "version": [1, 0, 0]
-    },
     {
       "module_name": "@minecraft/server",
       "version": "1.10.0"
